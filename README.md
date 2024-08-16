@@ -1,7 +1,7 @@
 [![Gmail](https://img.shields.io/badge/jinseosung15@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:jinseosung15@gmail.com)](mailto:jinseosung15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/JinseoSung-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jinseo-sung/)](https://www.linkedin.com/in/jinseo-sung/)
 
-👋 Bonjour ! Je suis développeuse front-end, passionnée par React et TypeScript. 💘
+👋 Bonjour ! Je suis développeuse full stack, passionnée par React et TypeScript. 💘
 
 J'aime le course à pied et le crochet. 🏃‍♀️🧶 </br> J'espère pouvoir développer toutes les belles choses. ✨
 
